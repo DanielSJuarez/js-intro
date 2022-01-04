@@ -102,6 +102,9 @@
             }
 
         }
+         cat.greeting();
+         cat2.greeting();
+    }
 
         object3();
-    }) ();
+})();
